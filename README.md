@@ -48,7 +48,7 @@ df.dropna(axis=0 ,how = "any",inplace= True)
 df.describe()
 
 ```
-![alt text](../image.png)
+![alt text](image1.png)
 
 # Removing outliers
 ```py
